@@ -9,5 +9,5 @@
 	"syntax": "python",
 	"duration" : 2,
     "projectType": "project",
-	"description" : "Use XGBoost algorithm "
+	"description" : "Use XGBoost algorithm to improve the model of the last 2 projects about diabetes."
 }
