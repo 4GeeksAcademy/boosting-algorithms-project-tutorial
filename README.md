@@ -5,13 +5,17 @@
 - Use the data you have analyzed in the previous two projects.
 - Continue with the development to find a model that fits better.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 Follow the instructions below:
 
-1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
+1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by clicking [here](https://github.com/4GeeksAcademy/machine-learning-python-template).
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
+
+</onlyfor>
 
 ## 🚛 How to deliver this project
 
