@@ -1,13 +1,22 @@
 {
 	"slug" : "boosting-algorithms-project-tutorial",
-	"title" : "Boosting Algorithms Project Tutorial",
+	"title" : {
+		"us":"Boosting Algorithms Project Tutorial",
+		"es":"Tutorial del proyecto de algoritmos de refuerzo"
+	},
 	"preview": "https://github.com/4GeeksAcademy/boosting-algorithms-project-tutorial/blob/main/preview.png?raw=true",
+	"solution": "https://github.com/4GeeksAcademy/boosting-algorithms-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
-	"translations": ["us"],
 	"technologies": ["data-science", "machine-learning"],
 	"difficulty": "beginner",
-	"syntax": "python",
 	"duration" : 2,
-    "projectType": "project",
-	"description" : "Use XGBoost algorithm to improve the model of the last 2 projects about diabetes."
+  "projectType": "project",
+	"description" : {
+		"es":"Aprende a implementar algoritmos de boosting para mejorar el rendimiento del modelo. Usando un conjunto de datos de diabetes, entrena, ajusta y evalúa modelos boosting. Compara resultados con árboles de decisión y random forest para elegir el predictor más preciso.",
+		"us":"Learn to implement boosting algorithms to enhance model performance. Using a diabetes dataset, train, tune, and evaluate boosting models. Compare results with decision trees and random forests to choose the most accurate predictor. A hands-on guide to mastering model optimization."
+	},
+	"gitpod": true,
+	"telemetry": {
+	  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=427"
+	  }
 }
